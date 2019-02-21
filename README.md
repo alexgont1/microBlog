@@ -1,1 +1,1 @@
-# microBlog
+# microBlog (AWS+Heroku, scaffolding) 
