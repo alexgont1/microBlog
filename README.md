@@ -1,11 +1,10 @@
 # microBlog (AWS+Heroku, scaffolding) 
 #     Models: 
-#------------------------
-#         id    [integer]
-# Users   name  [string]
-#         email [string]
-#------------------------
-#             id      [integer]
-# Microposts  content [text]
-#             user_id [integer]
--------------------------
+#-----Users-----
+#id    [integer]
+#name  [string]
+#email [string]
+#-----Microposts-----
+#id      [integer]
+#content [text]
+#user_id [integer]
